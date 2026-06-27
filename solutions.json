@@ -11,5 +11,18 @@
     "submissionId": "2046989077",
     "timestamp": "1782489496",
     "path": "Easy/2383_Add_Two_Integers.cpp"
+  },
+  {
+    "problemId": "1630",
+    "problemTitle": "Count Odd Numbers in an Interval Range",
+    "problemSlug": "count-odd-numbers-in-an-interval-range",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2032 ms",
+    "memory": "7.8 MB",
+    "submissionId": "2048142512",
+    "timestamp": "1782583635",
+    "path": "Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp"
   }
 ]
