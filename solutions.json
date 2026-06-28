@@ -24,5 +24,18 @@
     "submissionId": "2048142512",
     "timestamp": "1782583635",
     "path": "Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp"
+  },
+  {
+    "problemId": "890",
+    "problemTitle": "Lemonade Change",
+    "problemSlug": "lemonade-change",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "87.4 MB",
+    "submissionId": "2048706975",
+    "timestamp": "1782632990",
+    "path": "Easy/0890_Lemonade_Change.cpp"
   }
 ]
