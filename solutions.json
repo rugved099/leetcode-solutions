@@ -37,5 +37,18 @@
     "submissionId": "2048706975",
     "timestamp": "1782632990",
     "path": "Easy/0890_Lemonade_Change.cpp"
+  },
+  {
+    "problemId": "2099",
+    "problemTitle": "Number of Strings That Appear as Substrings in Word",
+    "problemSlug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.7 MB",
+    "submissionId": "2050158405",
+    "timestamp": "1782743325",
+    "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp"
   }
 ]
