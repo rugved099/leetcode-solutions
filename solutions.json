@@ -50,5 +50,18 @@
     "submissionId": "2050158405",
     "timestamp": "1782743325",
     "path": "Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp"
+  },
+  {
+    "problemId": "258",
+    "problemTitle": "Add Digits",
+    "problemSlug": "add-digits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "submissionId": "2050919547",
+    "timestamp": "1782805055",
+    "path": "Easy/0258_Add_Digits.cpp"
   }
 ]
