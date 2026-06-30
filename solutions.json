@@ -63,5 +63,18 @@
     "submissionId": "2050919547",
     "timestamp": "1782805055",
     "path": "Easy/0258_Add_Digits.cpp"
+  },
+  {
+    "problemId": "1610",
+    "problemTitle": "XOR Operation in an Array",
+    "problemSlug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "submissionId": "2051229131",
+    "timestamp": "1782824308",
+    "path": "Easy/1610_XOR_Operation_in_an_Array.cpp"
   }
 ]
