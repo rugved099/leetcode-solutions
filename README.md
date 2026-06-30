@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
+- Add Digits ([C++](Easy/0258_Add_Digits.cpp))
 - Lemonade Change ([C++](Easy/0890_Lemonade_Change.cpp))
 - Count Odd Numbers in an Interval Range ([C++](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
@@ -21,7 +22,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 0 |
 | Hard | 0 |
 
