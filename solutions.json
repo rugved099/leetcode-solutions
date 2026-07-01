@@ -89,5 +89,18 @@
     "submissionId": "2051796663",
     "timestamp": "1782875710",
     "path": "Medium/0050_Powx_n.cpp"
+  },
+  {
+    "problemId": "1677",
+    "problemTitle": "Matrix Diagonal Sum",
+    "problemSlug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15 MB",
+    "submissionId": "2052440299",
+    "timestamp": "1782915416",
+    "path": "Easy/1677_Matrix_Diagonal_Sum.cpp"
   }
 ]
