@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 7
 - Lemonade Change ([C++](Easy/0890_Lemonade_Change.cpp))
 - XOR Operation in an Array ([C++](Easy/1610_XOR_Operation_in_an_Array.cpp))
 - Count Odd Numbers in an Interval Range ([C++](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp))
+- Matrix Diagonal Sum ([C++](Easy/1677_Matrix_Diagonal_Sum.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
 
@@ -23,7 +24,7 @@ Total Solved: 7
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 1 |
 | Hard | 0 |
 
