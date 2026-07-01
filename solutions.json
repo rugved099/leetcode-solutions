@@ -76,5 +76,18 @@
     "submissionId": "2051229131",
     "timestamp": "1782824308",
     "path": "Easy/1610_XOR_Operation_in_an_Array.cpp"
+  },
+  {
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "submissionId": "2051796663",
+    "timestamp": "1782875710",
+    "path": "Medium/0050_Powx_n.cpp"
   }
 ]
