@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
@@ -13,7 +13,7 @@ Total Solved: 6
 
 ## Medium
 
-*No medium problems solved yet.*
+- Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
 
 ## Hard
 
@@ -24,7 +24,7 @@ Total Solved: 6
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---
