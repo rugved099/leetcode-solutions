@@ -115,5 +115,18 @@
     "submissionId": "2053849841",
     "timestamp": "1783014511",
     "path": "Easy/1542_Consecutive_Characters.cpp"
+  },
+  {
+    "problemId": "1018",
+    "problemTitle": "Largest Perimeter Triangle",
+    "problemSlug": "largest-perimeter-triangle",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "9 ms",
+    "memory": "25.5 MB",
+    "submissionId": "2054961888",
+    "timestamp": "1783100864",
+    "path": "Easy/1018_Largest_Perimeter_Triangle.cpp"
   }
 ]
