@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
 - Lemonade Change ([C++](Easy/0890_Lemonade_Change.cpp))
+- Largest Perimeter Triangle ([C++](Easy/1018_Largest_Perimeter_Triangle.cpp))
 - Consecutive Characters ([C++](Easy/1542_Consecutive_Characters.cpp))
 - XOR Operation in an Array ([C++](Easy/1610_XOR_Operation_in_an_Array.cpp))
 - Count Odd Numbers in an Interval Range ([C++](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp))
@@ -25,7 +26,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 1 |
 | Hard | 0 |
 
