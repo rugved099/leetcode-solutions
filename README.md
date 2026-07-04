@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 10
 ## Medium
 
 - Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
+- Super Pow ([C++](Medium/0372_Super_Pow.cpp))
 
 ## Hard
 
@@ -27,7 +28,7 @@ Total Solved: 10
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
