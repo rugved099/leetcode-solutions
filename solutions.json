@@ -154,5 +154,18 @@
     "submissionId": "2059492146",
     "timestamp": "1783439423",
     "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp"
+  },
+  {
+    "problemId": "1054",
+    "problemTitle": "Complement of Base 10 Integer",
+    "problemSlug": "complement-of-base-10-integer",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8 MB",
+    "submissionId": "2060635921",
+    "timestamp": "1783521950",
+    "path": "Easy/1054_Complement_of_Base_10_Integer.cpp"
   }
 ]
