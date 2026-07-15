@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 13
 - Matrix Diagonal Sum ([C++](Easy/1677_Matrix_Diagonal_Sum.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
+- GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
 ## Medium
@@ -29,7 +30,7 @@ Total Solved: 13
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 2 |
 | Hard | 0 |
 
