@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 14
 
 - Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
+- Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 
 ## Hard
 
@@ -31,7 +32,7 @@ Total Solved: 14
 | Difficulty | Count |
 |------------|--------|
 | Easy | 12 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---
