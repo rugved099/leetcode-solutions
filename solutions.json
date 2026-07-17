@@ -180,5 +180,18 @@
     "submissionId": "2068856095",
     "timestamp": "1784132685",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
+  },
+  {
+    "problemId": "1212",
+    "problemTitle": "Sequential Digits",
+    "problemSlug": "sequential-digits",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "submissionId": "2071404726",
+    "timestamp": "1784309113",
+    "path": "Medium/1212_Sequential_Digits.cpp"
   }
 ]
