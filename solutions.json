@@ -193,5 +193,18 @@
     "submissionId": "2071404726",
     "timestamp": "1784309113",
     "path": "Medium/1212_Sequential_Digits.cpp"
+  },
+  {
+    "problemId": "2106",
+    "problemTitle": "Find Greatest Common Divisor of Array",
+    "problemSlug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.3 MB",
+    "submissionId": "2071713698",
+    "timestamp": "1784347186",
+    "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp"
   }
 ]
