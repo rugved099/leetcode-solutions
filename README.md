@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 15
 - Count Odd Numbers in an Interval Range ([C++](Easy/1630_Count_Odd_Numbers_in_an_Interval_Range.cpp))
 - Matrix Diagonal Sum ([C++](Easy/1677_Matrix_Diagonal_Sum.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
+- Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
@@ -31,7 +32,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 3 |
 | Hard | 0 |
 
