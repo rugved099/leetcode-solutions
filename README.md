@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
+- Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
 - Self Dividing Numbers ([C++](Easy/0728_Self_Dividing_Numbers.cpp))
 - Lemonade Change ([C++](Easy/0890_Lemonade_Change.cpp))
 - Largest Perimeter Triangle ([C++](Easy/1018_Largest_Perimeter_Triangle.cpp))
@@ -33,7 +34,7 @@ Total Solved: 17
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 3 |
 | Hard | 0 |
 
