@@ -206,5 +206,18 @@
     "submissionId": "2071713698",
     "timestamp": "1784347186",
     "path": "Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp"
+  },
+  {
+    "problemId": "728",
+    "problemTitle": "Self Dividing Numbers",
+    "problemSlug": "self-dividing-numbers",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.1 MB",
+    "submissionId": "2075224792",
+    "timestamp": "1784604210",
+    "path": "Easy/0728_Self_Dividing_Numbers.cpp"
   }
 ]
