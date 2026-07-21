@@ -219,5 +219,18 @@
     "submissionId": "2075224792",
     "timestamp": "1784604210",
     "path": "Easy/0728_Self_Dividing_Numbers.cpp"
+  },
+  {
+    "problemId": "507",
+    "problemTitle": "Perfect Number",
+    "problemSlug": "perfect-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1039 ms",
+    "memory": "7.7 MB",
+    "submissionId": "2075229964",
+    "timestamp": "1784604703",
+    "path": "Easy/0507_Perfect_Number.cpp"
   }
 ]
