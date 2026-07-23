@@ -232,5 +232,18 @@
     "submissionId": "2075229964",
     "timestamp": "1784604703",
     "path": "Easy/0507_Perfect_Number.cpp"
+  },
+  {
+    "problemId": "191",
+    "problemTitle": "Number of 1 Bits",
+    "problemSlug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.2 MB",
+    "submissionId": "2078734253",
+    "timestamp": "1784827803",
+    "path": "Easy/0191_Number_of_1_Bits.cpp"
   }
 ]
