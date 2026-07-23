@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 18
+Total Solved: 19
 
 ## Easy
 
+- Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
 - Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
 - Self Dividing Numbers ([C++](Easy/0728_Self_Dividing_Numbers.cpp))
@@ -34,7 +35,7 @@ Total Solved: 18
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 3 |
 | Hard | 0 |
 
