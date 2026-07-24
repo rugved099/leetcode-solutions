@@ -258,5 +258,18 @@
     "submissionId": "2078985951",
     "timestamp": "1784860494",
     "path": "Easy/3676_Smallest_Number_With_All_Set_Bits.cpp"
+  },
+  {
+    "problemId": "231",
+    "problemTitle": "Power of Two",
+    "problemSlug": "power-of-two",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2079544251",
+    "timestamp": "1784895149",
+    "path": "Easy/0231_Power_of_Two.cpp"
   }
 ]
