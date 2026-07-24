@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 22
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 21
 - Matrix Diagonal Sum ([C++](Easy/1677_Matrix_Diagonal_Sum.cpp))
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
+- Minimum Bit Flips to Convert Number ([C++](Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
 - Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -37,7 +38,7 @@ Total Solved: 21
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 18 |
+| Easy | 19 |
 | Medium | 3 |
 | Hard | 0 |
 
