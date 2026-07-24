@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 19
 - Number of Strings That Appear as Substrings in Word ([C++](Easy/2099_Number_of_Strings_That_Appear_as_Substrings_in_Word.cpp))
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
+- Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
@@ -35,7 +36,7 @@ Total Solved: 19
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 3 |
 | Hard | 0 |
 
