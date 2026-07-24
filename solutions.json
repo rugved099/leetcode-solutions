@@ -245,5 +245,18 @@
     "submissionId": "2078734253",
     "timestamp": "1784827803",
     "path": "Easy/0191_Number_of_1_Bits.cpp"
+  },
+  {
+    "problemId": "3676",
+    "problemTitle": "Smallest Number With All Set Bits",
+    "problemSlug": "smallest-number-with-all-set-bits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "submissionId": "2078985951",
+    "timestamp": "1784860494",
+    "path": "Easy/3676_Smallest_Number_With_All_Set_Bits.cpp"
   }
 ]
