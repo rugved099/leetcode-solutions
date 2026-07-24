@@ -271,5 +271,18 @@
     "submissionId": "2079544251",
     "timestamp": "1784895149",
     "path": "Easy/0231_Power_of_Two.cpp"
+  },
+  {
+    "problemId": "2323",
+    "problemTitle": "Minimum Bit Flips to Convert Number",
+    "problemSlug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8 MB",
+    "submissionId": "2079634113",
+    "timestamp": "1784900877",
+    "path": "Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp"
   }
 ]
