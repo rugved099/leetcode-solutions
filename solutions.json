@@ -284,5 +284,18 @@
     "submissionId": "2079634113",
     "timestamp": "1784900877",
     "path": "Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp"
+  },
+  {
+    "problemId": "909",
+    "problemTitle": "Stone Game",
+    "problemSlug": "stone-game",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.4 MB",
+    "submissionId": "2092725354",
+    "timestamp": "1785766832",
+    "path": "Medium/0909_Stone_Game.cpp"
   }
 ]
