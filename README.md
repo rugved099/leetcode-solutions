@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 23
 ## Medium
 
 - Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
+- Single Number II ([C++](Medium/0137_Single_Number_II.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
@@ -40,7 +41,7 @@ Total Solved: 23
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 4 |
+| Medium | 5 |
 | Hard | 0 |
 
 ---
