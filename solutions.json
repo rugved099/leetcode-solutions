@@ -310,5 +310,18 @@
     "submissionId": "2093510375",
     "timestamp": "1785822808",
     "path": "Medium/0137_Single_Number_II.cpp"
+  },
+  {
+    "problemId": "260",
+    "problemTitle": "Single Number III",
+    "problemSlug": "single-number-iii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.8 MB",
+    "submissionId": "2093559347",
+    "timestamp": "1785824811",
+    "path": "Medium/0260_Single_Number_III.cpp"
   }
 ]
