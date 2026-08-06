@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 25
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Minimum Bit Flips to Convert Number ([C++](Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
+- Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
@@ -41,7 +42,7 @@ Total Solved: 25
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 6 |
 | Hard | 0 |
 
