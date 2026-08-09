@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 26
+Total Solved: 27
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 26
 ## Medium
 
 - Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
+- Subsets ([C++](Medium/0078_Subsets.cpp))
 - Single Number II ([C++](Medium/0137_Single_Number_II.cpp))
 - Single Number III ([C++](Medium/0260_Single_Number_III.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
@@ -43,7 +44,7 @@ Total Solved: 26
 | Difficulty | Count |
 |------------|--------|
 | Easy | 20 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 0 |
 
 ---
