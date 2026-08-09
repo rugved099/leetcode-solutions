@@ -349,5 +349,18 @@
     "submissionId": "2100012647",
     "timestamp": "1786257984",
     "path": "Medium/0078_Subsets.cpp"
+  },
+  {
+    "problemId": "190",
+    "problemTitle": "Reverse Bits",
+    "problemSlug": "reverse-bits",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2100035193",
+    "timestamp": "1786259224",
+    "path": "Easy/0190_Reverse_Bits.cpp"
   }
 ]
