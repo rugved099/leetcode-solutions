@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
+- Reverse Bits ([C++](Easy/0190_Reverse_Bits.cpp))
 - Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
@@ -43,7 +44,7 @@ Total Solved: 27
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 7 |
 | Hard | 0 |
 
