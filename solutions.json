@@ -336,5 +336,18 @@
     "submissionId": "2096762633",
     "timestamp": "1786024837",
     "path": "Easy/3626_Smallest_Divisible_Digit_Product_I.cpp"
+  },
+  {
+    "problemId": "78",
+    "problemTitle": "Subsets",
+    "problemSlug": "subsets",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "9.9 MB",
+    "submissionId": "2100012647",
+    "timestamp": "1786257984",
+    "path": "Medium/0078_Subsets.cpp"
   }
 ]
