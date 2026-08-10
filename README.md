@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 28
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
+- All Elements in Two Binary Search Trees ([Java](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.java))
 
 ## Hard
 
@@ -45,7 +46,7 @@ Total Solved: 28
 | Difficulty | Count |
 |------------|--------|
 | Easy | 21 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 0 |
 
 ---
