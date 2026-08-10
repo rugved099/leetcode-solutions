@@ -362,5 +362,18 @@
     "submissionId": "2100035193",
     "timestamp": "1786259224",
     "path": "Easy/0190_Reverse_Bits.cpp"
+  },
+  {
+    "problemId": "1427",
+    "problemTitle": "All Elements in Two Binary Search Trees",
+    "problemSlug": "all-elements-in-two-binary-search-trees",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "17 ms",
+    "memory": "49.5 MB",
+    "submissionId": "2101098419",
+    "timestamp": "1786340119",
+    "path": "Medium/1427_All_Elements_in_Two_Binary_Search_Trees.java"
   }
 ]
