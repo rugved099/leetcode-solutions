@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 29
+Total Solved: 30
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 29
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Minimum Bit Flips to Convert Number ([C++](Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
+- Check if Strings Can be Made Equal With Operations I ([Java](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -45,7 +46,7 @@ Total Solved: 29
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 8 |
 | Hard | 0 |
 
