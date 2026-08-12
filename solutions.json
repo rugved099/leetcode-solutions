@@ -375,5 +375,18 @@
     "submissionId": "2101098419",
     "timestamp": "1786340119",
     "path": "Medium/1427_All_Elements_in_Two_Binary_Search_Trees.java"
+  },
+  {
+    "problemId": "2999",
+    "problemTitle": "Check if Strings Can be Made Equal With Operations I",
+    "problemSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "44.7 MB",
+    "submissionId": "2103656786",
+    "timestamp": "1786509382",
+    "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java"
   }
 ]
