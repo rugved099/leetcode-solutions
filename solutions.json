@@ -388,5 +388,18 @@
     "submissionId": "2103656786",
     "timestamp": "1786509382",
     "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java"
+  },
+  {
+    "problemId": "2999",
+    "problemTitle": "Check if Strings Can be Made Equal With Operations I",
+    "problemSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "8.3 MB",
+    "submissionId": "2109374888",
+    "timestamp": "1786905260",
+    "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp"
   }
 ]
