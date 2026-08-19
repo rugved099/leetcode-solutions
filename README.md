@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
+- Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Reverse Bits ([C++](Easy/0190_Reverse_Bits.cpp))
 - Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
@@ -21,7 +22,7 @@ Total Solved: 30
 - Find Greatest Common Divisor of Array ([C++](Easy/2106_Find_Greatest_Common_Divisor_of_Array.cpp))
 - Minimum Bit Flips to Convert Number ([C++](Easy/2323_Minimum_Bit_Flips_to_Convert_Number.cpp))
 - Add Two Integers ([C++](Easy/2383_Add_Two_Integers.cpp))
-- Check if Strings Can be Made Equal With Operations I ([Java](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java), [C++](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp))
+- Check if Strings Can be Made Equal With Operations I ([C++](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp), [Java](Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java))
 - Smallest Divisible Digit Product I ([C++](Easy/3626_Smallest_Divisible_Digit_Product_I.cpp))
 - Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -46,7 +47,7 @@ Total Solved: 30
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 8 |
 | Hard | 0 |
 
