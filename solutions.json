@@ -414,5 +414,18 @@
     "submissionId": "2112176870",
     "timestamp": "1787112750",
     "path": "Easy/0175_Combine_Two_Tables.sql"
+  },
+  {
+    "problemId": "397",
+    "problemTitle": "Integer Replacement",
+    "problemSlug": "integer-replacement",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "submissionId": "2112225363",
+    "timestamp": "1787115534",
+    "path": "Medium/0397_Integer_Replacement.cpp"
   }
 ]
