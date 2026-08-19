@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 31
 - Single Number II ([C++](Medium/0137_Single_Number_II.cpp))
 - Single Number III ([C++](Medium/0260_Single_Number_III.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
+- Integer Replacement ([C++](Medium/0397_Integer_Replacement.cpp))
 - Stone Game ([C++](Medium/0909_Stone_Game.cpp))
 - Sequential Digits ([C++](Medium/1212_Sequential_Digits.cpp))
 - All Elements in Two Binary Search Trees ([Java](Medium/1427_All_Elements_in_Two_Binary_Search_Trees.java))
@@ -48,7 +49,7 @@ Total Solved: 31
 | Difficulty | Count |
 |------------|--------|
 | Easy | 23 |
-| Medium | 8 |
+| Medium | 9 |
 | Hard | 0 |
 
 ---
