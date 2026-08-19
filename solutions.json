@@ -364,6 +364,19 @@
     "path": "Easy/0190_Reverse_Bits.cpp"
   },
   {
+    "problemId": "2999",
+    "problemTitle": "Check if Strings Can be Made Equal With Operations I",
+    "problemSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "8.3 MB",
+    "submissionId": "2109374888",
+    "timestamp": "1786905260",
+    "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -390,16 +403,16 @@
     "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.java"
   },
   {
-    "problemId": "2999",
-    "problemTitle": "Check if Strings Can be Made Equal With Operations I",
-    "problemSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "problemId": "175",
+    "problemTitle": "Combine Two Tables",
+    "problemSlug": "combine-two-tables",
     "difficulty": "Easy",
-    "language": "C++",
-    "extension": "cpp",
-    "runtime": "2 ms",
-    "memory": "8.3 MB",
-    "submissionId": "2109374888",
-    "timestamp": "1786905260",
-    "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp"
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "420 ms",
+    "memory": "0B",
+    "submissionId": "2112176870",
+    "timestamp": "1787112750",
+    "path": "Easy/0175_Combine_Two_Tables.sql"
   }
 ]
