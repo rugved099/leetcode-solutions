@@ -377,6 +377,19 @@
     "path": "Easy/2999_Check_if_Strings_Can_be_Made_Equal_With_Operations_I.cpp"
   },
   {
+    "problemId": "397",
+    "problemTitle": "Integer Replacement",
+    "problemSlug": "integer-replacement",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "submissionId": "2112225363",
+    "timestamp": "1787115534",
+    "path": "Medium/0397_Integer_Replacement.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -416,16 +429,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "397",
-    "problemTitle": "Integer Replacement",
-    "problemSlug": "integer-replacement",
-    "difficulty": "Medium",
+    "problemId": "3347",
+    "problemTitle": "Distribute Elements Into Two Arrays I",
+    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "7.8 MB",
-    "submissionId": "2112225363",
-    "timestamp": "1787115534",
-    "path": "Medium/0397_Integer_Replacement.cpp"
+    "runtime": "1 ms",
+    "memory": "23.8 MB",
+    "submissionId": "2114144247",
+    "timestamp": "1787242156",
+    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp"
   }
 ]
