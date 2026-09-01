@@ -403,6 +403,19 @@
     "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.cpp"
   },
   {
+    "problemId": "237",
+    "problemTitle": "Delete Node in a Linked List",
+    "problemSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "submissionId": "2127020403",
+    "timestamp": "1788253294",
+    "path": "Medium/0237_Delete_Node_in_a_Linked_List.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -442,16 +455,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "237",
-    "problemTitle": "Delete Node in a Linked List",
-    "problemSlug": "delete-node-in-a-linked-list",
-    "difficulty": "Medium",
+    "problemId": "203",
+    "problemTitle": "Remove Linked List Elements",
+    "problemSlug": "remove-linked-list-elements",
+    "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "12.4 MB",
-    "submissionId": "2127020403",
-    "timestamp": "1788253294",
-    "path": "Medium/0237_Delete_Node_in_a_Linked_List.cpp"
+    "runtime": "1 ms",
+    "memory": "20.1 MB",
+    "submissionId": "2127383605",
+    "timestamp": "1788276368",
+    "path": "Easy/0203_Remove_Linked_List_Elements.cpp"
   }
 ]
