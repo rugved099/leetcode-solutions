@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Reverse Bits ([C++](Easy/0190_Reverse_Bits.cpp))
 - Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
+- Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
 - Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
@@ -50,7 +51,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 10 |
 | Hard | 0 |
 
