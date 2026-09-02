@@ -429,6 +429,19 @@
     "path": "Easy/0203_Remove_Linked_List_Elements.cpp"
   },
   {
+    "problemId": "206",
+    "problemTitle": "Reverse Linked List",
+    "problemSlug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "submissionId": "2128378262",
+    "timestamp": "1788349335",
+    "path": "Easy/0206_Reverse_Linked_List.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -468,16 +481,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "206",
-    "problemTitle": "Reverse Linked List",
-    "problemSlug": "reverse-linked-list",
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
     "runtime": "0 ms",
-    "memory": "13.3 MB",
-    "submissionId": "2128378262",
-    "timestamp": "1788349335",
-    "path": "Easy/0206_Reverse_Linked_List.cpp"
+    "memory": "30.3 MB",
+    "submissionId": "2128633472",
+    "timestamp": "1788364244",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
   }
 ]
