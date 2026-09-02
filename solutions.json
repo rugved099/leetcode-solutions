@@ -416,6 +416,19 @@
     "path": "Medium/0237_Delete_Node_in_a_Linked_List.cpp"
   },
   {
+    "problemId": "203",
+    "problemTitle": "Remove Linked List Elements",
+    "problemSlug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "1 ms",
+    "memory": "20.1 MB",
+    "submissionId": "2127383605",
+    "timestamp": "1788276368",
+    "path": "Easy/0203_Remove_Linked_List_Elements.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -455,16 +468,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "203",
-    "problemTitle": "Remove Linked List Elements",
-    "problemSlug": "remove-linked-list-elements",
+    "problemId": "206",
+    "problemTitle": "Reverse Linked List",
+    "problemSlug": "reverse-linked-list",
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "1 ms",
-    "memory": "20.1 MB",
-    "submissionId": "2127383605",
-    "timestamp": "1788276368",
-    "path": "Easy/0203_Remove_Linked_List_Elements.cpp"
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "submissionId": "2128378262",
+    "timestamp": "1788349335",
+    "path": "Easy/0206_Reverse_Linked_List.cpp"
   }
 ]
