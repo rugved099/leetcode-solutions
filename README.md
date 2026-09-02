@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 36
+Total Solved: 37
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 36
 - Smallest Number With All Set Bits ([C++](Easy/3676_Smallest_Number_With_All_Set_Bits.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
+- Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
 
 ## Medium
 
@@ -52,7 +53,7 @@ Total Solved: 36
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 10 |
 | Hard | 0 |
 
