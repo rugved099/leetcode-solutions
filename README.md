@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 35
 - Reverse Bits ([C++](Easy/0190_Reverse_Bits.cpp))
 - Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
+- Reverse Linked List ([C++](Easy/0206_Reverse_Linked_List.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Add Digits ([C++](Easy/0258_Add_Digits.cpp))
 - Perfect Number ([C++](Easy/0507_Perfect_Number.cpp))
@@ -51,7 +52,7 @@ Total Solved: 35
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 10 |
 | Hard | 0 |
 
