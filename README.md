@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
 - Merge Two Sorted Lists ([C++](Easy/0021_Merge_Two_Sorted_Lists.cpp))
+- Remove Duplicates from Sorted List ([C++](Easy/0083_Remove_Duplicates_from_Sorted_List.cpp))
 - Combine Two Tables ([MySQL](Easy/0175_Combine_Two_Tables.sql))
 - Reverse Bits ([C++](Easy/0190_Reverse_Bits.cpp))
 - Number of 1 Bits ([C++](Easy/0191_Number_of_1_Bits.cpp))
@@ -54,7 +55,7 @@ Total Solved: 38
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 28 |
+| Easy | 29 |
 | Medium | 10 |
 | Hard | 0 |
 
