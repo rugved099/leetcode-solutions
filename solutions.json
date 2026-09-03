@@ -442,6 +442,19 @@
     "path": "Easy/0206_Reverse_Linked_List.cpp"
   },
   {
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.3 MB",
+    "submissionId": "2128633472",
+    "timestamp": "1788364244",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -481,16 +494,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "4256",
-    "problemTitle": "Construct Uniform Parity Array I",
-    "problemSlug": "construct-uniform-parity-array-i",
+    "problemId": "21",
+    "problemTitle": "Merge Two Sorted Lists",
+    "problemSlug": "merge-two-sorted-lists",
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
     "runtime": "0 ms",
-    "memory": "30.3 MB",
-    "submissionId": "2128633472",
-    "timestamp": "1788364244",
-    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.cpp"
+    "memory": "19.5 MB",
+    "submissionId": "2129392788",
+    "timestamp": "1788424278",
+    "path": "Easy/0021_Merge_Two_Sorted_Lists.cpp"
   }
 ]
