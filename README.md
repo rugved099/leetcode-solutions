@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 39
+Total Solved: 40
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 39
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 - Construct Uniform Parity Array I ([C++](Easy/4256_Construct_Uniform_Parity_Array_I.cpp))
+- Smallest Stable Index I ([C++](Easy/4284_Smallest_Stable_Index_I.cpp))
 
 ## Medium
 
@@ -55,7 +56,7 @@ Total Solved: 39
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 10 |
 | Hard | 0 |
 
