@@ -481,6 +481,19 @@
     "path": "Easy/0083_Remove_Duplicates_from_Sorted_List.cpp"
   },
   {
+    "problemId": "4284",
+    "problemTitle": "Smallest Stable Index I",
+    "problemSlug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.2 MB",
+    "submissionId": "2131099124",
+    "timestamp": "1788551228",
+    "path": "Easy/4284_Smallest_Stable_Index_I.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -520,16 +533,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "4284",
-    "problemTitle": "Smallest Stable Index I",
-    "problemSlug": "smallest-stable-index-i",
+    "problemId": "141",
+    "problemTitle": "Linked List Cycle",
+    "problemSlug": "linked-list-cycle",
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "30.2 MB",
-    "submissionId": "2131099124",
-    "timestamp": "1788551228",
-    "path": "Easy/4284_Smallest_Stable_Index_I.cpp"
+    "runtime": "4 ms",
+    "memory": "11.9 MB",
+    "submissionId": "2133604849",
+    "timestamp": "1788764674",
+    "path": "Easy/0141_Linked_List_Cycle.cpp"
   }
 ]
