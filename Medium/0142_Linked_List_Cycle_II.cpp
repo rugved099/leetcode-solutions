@@ -3,8 +3,8 @@
  * Problem ID: 142
  * Difficulty: Medium
  * Language: C++
- * Runtime: 6 ms
- * Memory: 11.3 MB
+ * Runtime: 5 ms
+ * Memory: 11.4 MB
  * Synced From: LeetCode
  * Date: 2026-09-08
  */
@@ -24,12 +24,12 @@ public:
 
         ListNode*fast=head;
         ListNode*slow=head;
-        ListNode*fixed;
+        
         while(fast!=nullptr && fast->next!=nullptr){
             fast=fast->next->next;
             slow=slow->next;
             if(fast==slow){
-                fixed=slow;
+               
                 fast=head;
                 while(fast!=slow){
                     fast=fast->next;
