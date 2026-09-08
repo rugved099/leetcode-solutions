@@ -565,10 +565,10 @@
     "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "6 ms",
-    "memory": "11.3 MB",
-    "submissionId": "2134640834",
-    "timestamp": "1788843401",
+    "runtime": "5 ms",
+    "memory": "11.4 MB",
+    "submissionId": "2134641139",
+    "timestamp": "1788843418",
     "path": "Medium/0142_Linked_List_Cycle_II.cpp"
   }
 ]
