@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 42
+Total Solved: 43
 
 ## Easy
 
@@ -42,6 +42,7 @@ Total Solved: 42
 - Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
 - Subsets ([C++](Medium/0078_Subsets.cpp))
 - Single Number II ([C++](Medium/0137_Single_Number_II.cpp))
+- Linked List Cycle II ([C++](Medium/0142_Linked_List_Cycle_II.cpp))
 - Delete Node in a Linked List ([C++](Medium/0237_Delete_Node_in_a_Linked_List.cpp))
 - Single Number III ([C++](Medium/0260_Single_Number_III.cpp))
 - Super Pow ([C++](Medium/0372_Super_Pow.cpp))
@@ -59,7 +60,7 @@ Total Solved: 42
 | Difficulty | Count |
 |------------|--------|
 | Easy | 32 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 0 |
 
 ---
