@@ -507,6 +507,19 @@
     "path": "Easy/0141_Linked_List_Cycle.cpp"
   },
   {
+    "problemId": "4245",
+    "problemTitle": "Count Commas in Range",
+    "problemSlug": "count-commas-in-range",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2134588558",
+    "timestamp": "1788840185",
+    "path": "Easy/4245_Count_Commas_in_Range.cpp"
+  },
+  {
     "problemId": "1427",
     "problemTitle": "All Elements in Two Binary Search Trees",
     "problemSlug": "all-elements-in-two-binary-search-trees",
@@ -546,16 +559,16 @@
     "path": "Easy/0175_Combine_Two_Tables.sql"
   },
   {
-    "problemId": "4245",
-    "problemTitle": "Count Commas in Range",
-    "problemSlug": "count-commas-in-range",
-    "difficulty": "Easy",
+    "problemId": "142",
+    "problemTitle": "Linked List Cycle II",
+    "problemSlug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "0 ms",
-    "memory": "8.6 MB",
-    "submissionId": "2134588558",
-    "timestamp": "1788840185",
-    "path": "Easy/4245_Count_Commas_in_Range.cpp"
+    "runtime": "6 ms",
+    "memory": "11.3 MB",
+    "submissionId": "2134640834",
+    "timestamp": "1788843401",
+    "path": "Medium/0142_Linked_List_Cycle_II.cpp"
   }
 ]
